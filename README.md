@@ -9,3 +9,4 @@ Type this into your Command Prompt: `pip install PythonTurtle` to install Python
 
 ### Contact Me
 Discord: @Fan JS#8750
+*~~<sub>Sorry for the broken English, If you found any Grammar Errors, please inform me so that I can edit it</sub>~~*
